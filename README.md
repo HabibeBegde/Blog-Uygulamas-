@@ -1,1 +1,1 @@
-# Blog-Uygulamas-
+# Blog-Uygulamasi
