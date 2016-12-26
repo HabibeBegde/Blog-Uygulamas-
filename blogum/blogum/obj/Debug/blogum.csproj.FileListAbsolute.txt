@@ -1,0 +1,29 @@
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\blogum.dll.config
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\blogum.dll
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\blogum.pdb
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\EntityFramework.dll
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\EntityFramework.SqlServer.dll
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\EntityFramework.xml
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\bin\EntityFramework.SqlServer.xml
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\obj\Debug\blogum.csprojResolveAssemblyReference.cache
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\obj\Debug\blogum.dll
+c:\users\caner.kalyoncu\documents\visual studio 2013\Projects\blogum\blogum\obj\Debug\blogum.pdb
+C:\Users\caner.kalyoncu\Documents\Visual Studio 2013\Projects\blogum\blogum\obj\Debug\blogum.Migrations.InitialCreate.resources
+C:\Users\caner.kalyoncu\Documents\Visual Studio 2013\Projects\blogum\blogum\obj\Debug\blogum.csproj.GenerateResource.Cache
+C:\Users\caner.kalyoncu\Documents\Visual Studio 2013\Projects\blogum\blogum\obj\Debug\blogum.Migrations.iletisimTarih.resources
+C:\Users\caner.kalyoncu\Documents\Visual Studio 2013\Projects\blogum\blogum\bin\CKEditor.NET.dll
+C:\Users\caner.kalyoncu\Documents\Visual Studio 2013\Projects\blogum\blogum\bin\CKEditor.NET.pdb
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\blogum.dll.config
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\blogum.dll
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\blogum.pdb
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\EntityFramework.dll
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\EntityFramework.SqlServer.dll
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\CKEditor.NET.pdb
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\EntityFramework.xml
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\bin\EntityFramework.SqlServer.xml
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.csprojResolveAssemblyReference.cache
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.Migrations.InitialCreate.resources
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.Migrations.iletisimTarih.resources
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.csproj.GenerateResource.Cache
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.dll
+C:\Users\habibe\Desktop\flash\habibe\blogum\blogum\obj\Debug\blogum.pdb
